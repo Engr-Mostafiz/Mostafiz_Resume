@@ -390,7 +390,7 @@ header .navbar ul li a:hover {
 
 @media (max-width: 991px) {
   header {
-    left: -120%;
+    left: 120%;
   }
 
   #menu {
@@ -406,7 +406,7 @@ header .navbar ul li a:hover {
   }
 }
 
-@media (max-width: 768px) {
+@media (min-width: 768px) {
   html {
     font-size: 50%;
   }
